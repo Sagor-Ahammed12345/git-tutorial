@@ -7,4 +7,7 @@ pablic class Hello {
         system.out.println ("wellcome" + name);
     
     }
+    pablic static int sqp( int x){
+        return x*x ;
+    }
 }
