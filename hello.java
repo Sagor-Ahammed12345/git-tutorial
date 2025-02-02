@@ -3,4 +3,8 @@ pablic class Hello {
         system.out.println(" Vs code is awesome")
 
     )
+    pablic static void  greeting (string name){
+        system.out.println ("wellcome" + name);
+    
+    }
 }
